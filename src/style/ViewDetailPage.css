@@ -1,0 +1,20 @@
+.slick-slider.slick-initialized {
+  display: flex !important;
+  margin-left: 20px;
+}
+.nextArrowarrow,
+.prevArrowarrow {
+  margin-top: 30px;
+}
+.slick-slide {
+  outline: none !important;
+  width: 100px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  height: 100px !important;
+  padding: 8px 12px !important;
+}
+.slick-list {
+  width: 400px !important;
+}

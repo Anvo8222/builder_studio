@@ -1,0 +1,313 @@
+[
+    {
+        "id":1,
+        "name":"3D LOOK",
+        "logo":"https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_app_builder_icon/26635/logo.png",
+        "images":[
+            "https://builderassets.blob.core.windows.net/studio-feature/Studio%20Store%20Assets/Default%20Imagery-Icons/Default%20template%20image.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5c5000ba1f0c64172a7f77f8/Account_20creation_20Mobile.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/backend_default_feature.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5af2d4a40b82ec3ee3c8cb9f/camera_access.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd147888f3ac61106b2fd9/Carousel_20Display.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd172b88f3ac61106b3872/Categories_20and_20subcategories.png"
+        ],
+        "functions":["activity log","Admin Console","Account Creation","login","log out","chat box"],
+        "costPublic":27,
+        "description":"A mobile-first body scanning and measuring technology that provides accurate data-driven size and fit recommendations and photorealistic virtual try-on to help optimize processes, reduce returns while boosting sales, and increasing shopping confidence.",
+        "costAfter":29022,
+        "builders":[
+            {
+                "name":"BUILDER CARE",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Our aftercare warantee updates, upgrades and keeps your app running smoothly.",
+                "rentCost":241.85
+            },
+            {
+                "name":"BUILDER CLOUD",
+                "img":"https://studio.builder.ai/assets/images/cloudinclude.svg",
+                "title":"Cloud to help you run your app is included in this price. It’s topped up each month.",
+                "rentCost":150.00
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"9GAG",
+        "logo":"https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_app_builder_icon/5c5013941f0c643d17336ed1/9GAG.svg",
+        "images":[
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_background/5c5013941f0c643d17336ed1/9GAG.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5c5000ba1f0c64172a7f77f8/Account_20creation_20Mobile.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/backend_default_feature.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5af2d4a40b82ec3ee3c8cb9f/camera_access.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd147888f3ac61106b2fd9/Carousel_20Display.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd172b88f3ac61106b3872/Categories_20and_20subcategories.png"
+        ],
+        "functions":["Download Options","Forgot Password","comments","login","log out","chat box","log out","chat box"],
+        "costPublic":24,
+        "description":"A rich media platform and online community of users. Share, watch and upload videos, GIFs, memes and viral rich media.",
+        "costAfter":19623,
+        "builders":[
+            {
+                "name":"BUILDER CARE",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Our aftercare warantee updates, upgrades and keeps your app running smoothly.",
+                "rentCost":163.52
+            },
+            {
+                "name":"BUILDER CLOUD",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Cloud to help you run your app is included in this price. It’s topped up each month.",
+                "rentCost":150.00
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name":" ASOS",
+        "logo":"https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_app_builder_icon/5c5013341f0c643d17336e8f/ASOS.svg",
+        "images":[
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_background/5c5013341f0c643d17336e8f/ASOS.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5c5000ba1f0c64172a7f77f8/Account_20creation_20Mobile.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/backend_default_feature.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5af2d4a40b82ec3ee3c8cb9f/camera_access.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd147888f3ac61106b2fd9/Carousel_20Display.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd172b88f3ac61106b3872/Categories_20and_20subcategories.png"
+        ],
+        "functions":["Loyalty System","multiple currency support","edit","login","log out","chat box","log out","chat box","log out","chat box"],
+        "costPublic":44,
+        "description":"Online ecommerce platform selling clothes and fashion items. Customer accounts come with device sync, AI sizing assistance and AR features.",
+        "costAfter":36515,
+        "builders":[
+            {
+                "name":"BUILDER CARE",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Our aftercare warantee updates, upgrades and keeps your app running smoothly.",
+                "rentCost":304.09
+            },
+            {
+                "name":"BUILDER CLOUD",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Cloud to help you run your app is included in this price. It’s topped up each month.",
+                "rentCost":150.00
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name":" Accuweather",
+        "logo":"https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_app_builder_icon/5927e09514c49f0245b3762d/Accuweather.svg",
+        "images":[
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_background/5927e09514c49f0245b3762d/Accuweather.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5c5000ba1f0c64172a7f77f8/Account_20creation_20Mobile.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/backend_default_feature.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5af2d4a40b82ec3ee3c8cb9f/camera_access.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd147888f3ac61106b2fd9/Carousel_20Display.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd172b88f3ac61106b3872/Categories_20and_20subcategories.png"
+        ],
+        "functions":["Location","Login","Calenda","login","log out","chat box","log out","chat box","log out","chat box"],
+        "costPublic":7,
+        "description":"A leading weather forecast application. It keeps its users up-to-date with a host of weather readings for any part of the world.",
+        "costAfter":5734,
+        "builders":[
+            {
+                "name":"BUILDER CARE",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Our aftercare warantee updates, upgrades and keeps your app running smoothly.",
+                "rentCost":47.79
+            },
+            {
+                "name":"BUILDER CLOUD",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Cloud to help you run your app is included in this price. It’s topped up each month.",
+                "rentCost":150.00
+            }
+        ]
+    },
+    {
+        "id":5,
+        "name":"Airbnb",
+        "logo":"https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_app_builder_icon/5855c87b5cba2a5441cce8ce/Airbnb.svg",
+        "images":[
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_background/5855c87b5cba2a5441cce8ce/Airbnb.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5c5000ba1f0c64172a7f77f8/Account_20creation_20Mobile.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/backend_default_feature.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5af2d4a40b82ec3ee3c8cb9f/camera_access.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd147888f3ac61106b2fd9/Carousel_20Display.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd172b88f3ac61106b3872/Categories_20and_20subcategories.png"
+        ],
+        "functions":["carousel display","Dashboard,","Calenda","login","log out","chat box","log out","chat box"],
+        "costPublic":21,
+        "description":"Connects property owners and hosts who want to rent their homes with travellers and tourists looking for a place to stay.",
+        "costAfter":18281,
+        "builders":[
+            {
+                "name":"BUILDER CARE",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Our aftercare warantee updates, upgrades and keeps your app running smoothly.",
+                "rentCost":152.34
+            },
+            {
+                "name":"BUILDER CLOUD",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Cloud to help you run your app is included in this price. It’s topped up each month.",
+                "rentCost":150.00
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name":"AllTrails",
+        "logo":"https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_app_builder_icon/5c5014231f0c643d17336f2c/AllTrails.svg",
+        "images":[
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_background/5c5014231f0c643d17336f2c/AllTrails.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5c5000ba1f0c64172a7f77f8/Account_20creation_20Mobile.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/backend_default_feature.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5af2d4a40b82ec3ee3c8cb9f/camera_access.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd147888f3ac61106b2fd9/Carousel_20Display.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd172b88f3ac61106b3872/Categories_20and_20subcategories.png"
+        ],
+        "functions":["Email Login","Facebook Login,","Catelogue","login","log out","chat box","log out","chat box"],
+        "costPublic":13,
+        "description":"Global route planner and tracker for outdoor activities like running, walking and cycling. Content includes photos and reviews from millions of users.",
+        "costAfter":10779,
+        "builders":[
+            {
+                "name":"BUILDER CARE",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Our aftercare warantee updates, upgrades and keeps your app running smoothly.",
+                "rentCost":89.82
+            },
+            {
+                "name":"BUILDER CLOUD",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Cloud to help you run your app is included in this price. It’s topped up each month.",
+                "rentCost":150.00
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name":"Amazon",
+        "logo":"https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_app_builder_icon/58f7132214c49f5e024bb20e/Amazon.svg",
+        "images":[
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_background/58f7132214c49f5e024bb20e/Amazon.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5c5000ba1f0c64172a7f77f8/Account_20creation_20Mobile.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/backend_default_feature.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5af2d4a40b82ec3ee3c8cb9f/camera_access.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd147888f3ac61106b2fd9/Carousel_20Display.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd172b88f3ac61106b3872/Categories_20and_20subcategories.png"
+        ],
+        "functions":["Delivery Estimator","Instant Gift Cards", "carousel display","Facebook Login,","Catelogue","login","log out","chat box","log out","chat box"],
+        "costPublic":63,
+        "description":"Online retailer and marketplace with a huge variety of products. Features include barcode scanning, user reviews, save and compare and order tracking.",
+        "costAfter":50891,
+        "builders":[
+            {
+                "name":"BUILDER CARE",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Our aftercare warantee updates, upgrades and keeps your app running smoothly.",
+                "rentCost":424.1
+            },
+            {
+                "name":"BUILDER CLOUD",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Cloud to help you run your app is included in this price. It’s topped up each month.",
+                "rentCost":150.00
+            }
+        ]
+    },
+    {
+        "id":8,
+        "name":"Amazon Alexa",
+        "logo":"https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_app_builder_icon/5c50149a1f0c643d17336f79/Amazon_20Alexa.svg",
+        "images":[
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_background/5c50149a1f0c643d17336f79/Amazon_20Alexa.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5c5000ba1f0c64172a7f77f8/Account_20creation_20Mobile.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/backend_default_feature.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5af2d4a40b82ec3ee3c8cb9f/camera_access.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd147888f3ac61106b2fd9/Carousel_20Display.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd172b88f3ac61106b3872/Categories_20and_20subcategories.png"
+        ],
+        "functions":["Device Stream","Email Login", "carousel display","Acccount Cretion","Catelogue","login","log out","chat box","chat box"],
+        "costPublic":10,
+        "description":"Artificial intelligence-powered virtual assistant using voice recognition for playing music, remembering dates, supplying news, setting alarms and other commands to linked devices.",
+        "costAfter":8667,
+        "builders":[
+            {
+                "name":"BUILDER CARE",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Our aftercare warantee updates, upgrades and keeps your app running smoothly.",
+                "rentCost":72.22
+            },
+            {
+                "name":"BUILDER CLOUD",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Cloud to help you run your app is included in this price. It’s topped up each month.",
+                "rentCost":150.00
+            }
+        ]
+    },
+    {
+        "id":9,
+        "name":"Amazon Kindle",
+        "logo":"https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_app_builder_icon/5c5012811f0c643d17336e25/Amazon_20Kindle.svg",
+        "images":[
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_background/5c50149a1f0c643d17336f79/Amazon_20Alexa.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5c5000ba1f0c64172a7f77f8/Account_20creation_20Mobile.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/backend_default_feature.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5af2d4a40b82ec3ee3c8cb9f/camera_access.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd147888f3ac61106b2fd9/Carousel_20Display.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd172b88f3ac61106b3872/Categories_20and_20subcategories.png"
+        ],
+        "functions":["Data Storage","Download Option", "App Updates","Acccount Cretion","Catelogue","login","log out","chat box","chat box","log out","chat box","chat box"],
+        "costPublic":10,
+        "description":"An ebook, newspaper and magazine reader for use on mobile devices. Access to a library of documents and publications with adjustable fonts, plus images and audio.",
+        "costAfter":20078,
+        "builders":[
+            {
+                "name":"BUILDER CARE",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Our aftercare warantee updates, upgrades and keeps your app running smoothly.",
+                "rentCost":167.32
+            },
+            {
+                "name":"BUILDER CLOUD",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Cloud to help you run your app is included in this price. It’s topped up each month.",
+                "rentCost":150.00
+            }
+        ]
+    },
+    {
+        "id":10,
+        "name":"Amazon Music",
+        "logo":"https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_app_builder_icon/5c5014531f0c643d17336f4f/Amazon_20Music.svg",
+        "images":[
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/application/new_background/5c5014531f0c643d17336f4f/Amazon_20Music.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5c5000ba1f0c64172a7f77f8/Account_20creation_20Mobile.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/backend_default_feature.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/5af2d4a40b82ec3ee3c8cb9f/camera_access.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd147888f3ac61106b2fd9/Carousel_20Display.png",
+            "https://bstudio-assets.azureedge.net/assets-builder/uploads/feature/new_android_image/59fd172b88f3ac61106b3872/Categories_20and_20subcategories.png"
+        ],
+        "functions":["Audio and music","Audio Library", "Age Restriction","Acccount Cretion","Catelogue","login","log out","chat box","chat box","log out","chat box","chat box"],
+        "costPublic":33,
+        "description":"Digital music platform for streaming and downloading. Offers access to songs, audiobooks, playlists, stations and voice control.",
+        "costAfter":229.98,
+        "builders":[
+            {
+                "name":"BUILDER CARE",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Our aftercare warantee updates, upgrades and keeps your app running smoothly.",
+                "rentCost":167.32
+            },
+            {
+                "name":"BUILDER CLOUD",
+                "img":"https://studio.builder.ai/assets/images/careinclude.svg",
+                "title":"Cloud to help you run your app is included in this price. It’s topped up each month.",
+                "rentCost":150.00
+            }
+        ]
+    }
+    
+]
